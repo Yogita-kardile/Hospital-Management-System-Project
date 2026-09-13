@@ -1,7 +1,8 @@
-# India Hospitals Database & ML Project
+# Hospital Management System – India Hospitals Database & ML Project
 
-A complete Python pipeline: sample hospital dataset → SQLite database →
-SQL/pandas analysis → machine learning (regression + clustering) → charts.
+## Project Description
+
+Developed a Python-based hospital data management and analysis system using SQLite, SQL, Pandas, and Machine Learning. Implemented hospital data analysis, visualizations, doctor demand prediction using Random Forest, and hospital clustering using KMeans. Created an interactive Streamlit dashboard for exploring hospital data.
 
 ## ⚠️ About the data
 
