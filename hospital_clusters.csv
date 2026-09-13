@@ -1,0 +1,140 @@
+hospital_id,hospital_name,city,beds,doctors,num_specializations,tier_label
+1,Mumbai General Hospital,Mumbai,651,125,20,Large
+2,All India Institute Mumbai,Mumbai,846,157,15,Mega / Super-Specialty
+3,Mumbai Wellness & Research Hospital,Mumbai,890,126,10,Mega / Super-Specialty
+4,Mumbai Multispecialty Hospital,Mumbai,296,42,10,Small / Community
+5,Mumbai General Hospital #2,Mumbai,215,33,8,Small / Community
+6,Mumbai Multispecialty Hospital #2,Mumbai,688,96,19,Large
+7,Delhi Institute of Medical Sciences,Delhi,696,93,11,Medium
+8,Delhi Super Specialty Hospital,Delhi,1189,167,15,Mega / Super-Specialty
+9,Delhi Institute of Medical Sciences #2,Delhi,407,97,18,Large
+10,Delhi General Hospital,Delhi,621,84,11,Medium
+11,Delhi Wellness & Research Hospital,Delhi,647,89,13,Medium
+12,Delhi Institute of Medical Sciences #3,Delhi,539,79,16,Large
+13,Bengaluru District Hospital,Bengaluru,487,89,14,Medium
+14,Bengaluru Apex Hospital,Bengaluru,472,107,12,Medium
+15,Bengaluru Wellness & Research Hospital,Bengaluru,684,141,13,Mega / Super-Specialty
+16,Bengaluru Super Specialty Hospital,Bengaluru,864,104,15,Mega / Super-Specialty
+17,Bengaluru Super Specialty Hospital #2,Bengaluru,581,77,20,Large
+18,All India Institute Bengaluru,Bengaluru,906,130,16,Mega / Super-Specialty
+19,All India Institute Bengaluru #2,Bengaluru,512,55,12,Medium
+20,St. Mary's Hospital Chennai,Chennai,616,121,16,Large
+21,Chennai General Hospital,Chennai,1039,186,16,Mega / Super-Specialty
+22,St. Mary's Hospital Chennai #2,Chennai,405,57,18,Large
+23,Chennai Wellness & Research Hospital,Chennai,809,136,20,Mega / Super-Specialty
+24,Chennai Wellness & Research Hospital #2,Chennai,299,48,11,Small / Community
+25,Chennai Apex Hospital,Chennai,660,74,17,Large
+26,Chennai Super Specialty Hospital,Chennai,1142,163,17,Mega / Super-Specialty
+27,Chennai City Care Hospital,Chennai,573,77,19,Large
+28,Chennai District Hospital,Chennai,1107,123,16,Mega / Super-Specialty
+29,Kolkata Super Specialty Hospital,Kolkata,1013,189,17,Mega / Super-Specialty
+30,Kolkata Institute of Medical Sciences,Kolkata,596,97,15,Large
+31,Kolkata Multispecialty Hospital,Kolkata,767,90,19,Large
+32,Kolkata Super Specialty Hospital #2,Kolkata,1140,183,15,Mega / Super-Specialty
+33,St. Mary's Hospital Kolkata,Kolkata,847,159,18,Mega / Super-Specialty
+34,Kolkata Super Specialty Hospital #3,Kolkata,905,148,16,Mega / Super-Specialty
+35,Kolkata Apex Hospital,Kolkata,355,47,7,Small / Community
+36,Kolkata Super Specialty Hospital #4,Kolkata,408,66,11,Medium
+37,Kolkata District Hospital,Kolkata,259,58,6,Small / Community
+38,Hyderabad Super Specialty Hospital,Hyderabad,1028,181,19,Mega / Super-Specialty
+39,Hyderabad Super Specialty Hospital #2,Hyderabad,1079,249,14,Mega / Super-Specialty
+40,Hyderabad Super Specialty Hospital #3,Hyderabad,1109,155,14,Mega / Super-Specialty
+41,Hyderabad Wellness & Research Hospital,Hyderabad,192,24,10,Small / Community
+42,Hyderabad Institute of Medical Sciences,Hyderabad,986,172,12,Mega / Super-Specialty
+43,Hyderabad District Hospital,Hyderabad,152,29,9,Small / Community
+44,All India Institute Hyderabad,Hyderabad,1047,134,11,Mega / Super-Specialty
+45,All India Institute Hyderabad #2,Hyderabad,747,117,16,Large
+46,Hyderabad Super Specialty Hospital #4,Hyderabad,1152,147,18,Mega / Super-Specialty
+47,Pune District Hospital,Pune,461,67,12,Medium
+48,Pune Super Specialty Hospital,Pune,964,137,20,Mega / Super-Specialty
+49,Pune General Hospital,Pune,917,151,18,Mega / Super-Specialty
+50,Pune City Care Hospital,Pune,473,114,19,Large
+51,Pune General Hospital #2,Pune,1167,146,13,Mega / Super-Specialty
+52,Pune General Hospital #3,Pune,419,98,15,Large
+53,All India Institute Pune,Pune,612,80,18,Large
+54,Pune Apex Hospital,Pune,603,92,14,Medium
+55,Pune Apex Hospital #2,Pune,466,53,17,Large
+56,Ahmedabad Institute of Medical Sciences,Ahmedabad,193,50,7,Small / Community
+57,St. Mary's Hospital Ahmedabad,Ahmedabad,155,27,7,Small / Community
+58,Ahmedabad Multispecialty Hospital,Ahmedabad,182,33,7,Small / Community
+59,Ahmedabad Institute of Medical Sciences #2,Ahmedabad,603,65,20,Large
+60,Ahmedabad Apex Hospital,Ahmedabad,930,107,17,Mega / Super-Specialty
+61,St. Mary's Hospital Ahmedabad #2,Ahmedabad,1121,255,11,Mega / Super-Specialty
+62,Ahmedabad District Hospital,Ahmedabad,255,32,8,Small / Community
+63,Ahmedabad Apex Hospital #2,Ahmedabad,720,112,18,Large
+64,Ahmedabad General Hospital,Ahmedabad,590,109,15,Large
+65,Jaipur District Hospital,Jaipur,196,32,8,Small / Community
+66,Jaipur Super Specialty Hospital,Jaipur,220,32,8,Small / Community
+67,Jaipur Apex Hospital,Jaipur,442,97,16,Large
+68,Jaipur City Care Hospital,Jaipur,450,99,13,Medium
+69,Jaipur Institute of Medical Sciences,Jaipur,278,38,8,Small / Community
+70,Lucknow Institute of Medical Sciences,Lucknow,585,101,20,Large
+71,Lucknow Institute of Medical Sciences #2,Lucknow,172,31,9,Small / Community
+72,Lucknow City Care Hospital,Lucknow,431,45,18,Large
+73,St. Mary's Hospital Lucknow,Lucknow,475,86,15,Large
+74,All India Institute Lucknow,Lucknow,175,32,10,Small / Community
+75,All India Institute Lucknow #2,Lucknow,183,23,11,Small / Community
+76,Chandigarh Multispecialty Hospital,Chandigarh,371,56,7,Small / Community
+77,Chandigarh City Care Hospital,Chandigarh,368,54,7,Small / Community
+78,Chandigarh Apex Hospital,Chandigarh,371,83,8,Medium
+79,Chandigarh General Hospital,Chandigarh,485,76,16,Large
+80,Chandigarh City Care Hospital #2,Chandigarh,161,40,12,Small / Community
+81,Chandigarh Wellness & Research Hospital,Chandigarh,193,33,10,Small / Community
+82,Kochi Institute of Medical Sciences,Kochi,449,98,16,Large
+83,All India Institute Kochi,Kochi,555,72,20,Large
+84,Kochi General Hospital,Kochi,419,84,16,Large
+85,Kochi Super Specialty Hospital,Kochi,161,32,8,Small / Community
+86,Indore District Hospital,Indore,138,38,8,Small / Community
+87,St. Mary's Hospital Indore,Indore,113,25,8,Small / Community
+88,Indore Institute of Medical Sciences,Indore,270,48,10,Small / Community
+89,Indore Institute of Medical Sciences #2,Indore,535,64,20,Large
+90,Indore City Care Hospital,Indore,212,27,6,Small / Community
+91,Indore Institute of Medical Sciences #3,Indore,404,65,17,Large
+92,Nagpur Institute of Medical Sciences,Nagpur,361,82,10,Medium
+93,Nagpur Wellness & Research Hospital,Nagpur,109,27,11,Small / Community
+94,Nagpur District Hospital,Nagpur,154,20,9,Small / Community
+95,St. Mary's Hospital Nagpur,Nagpur,213,25,8,Small / Community
+96,Nagpur District Hospital #2,Nagpur,508,96,15,Large
+97,St. Mary's Hospital Bhopal,Bhopal,368,66,8,Small / Community
+98,St. Mary's Hospital Bhopal #2,Bhopal,132,20,8,Small / Community
+99,Bhopal Wellness & Research Hospital,Bhopal,179,34,10,Small / Community
+100,Bhopal City Care Hospital,Bhopal,232,31,8,Small / Community
+101,Bhopal City Care Hospital #2,Bhopal,386,55,8,Small / Community
+102,Bhopal Wellness & Research Hospital #2,Bhopal,132,19,10,Small / Community
+103,Coimbatore District Hospital,Coimbatore,500,86,10,Medium
+104,Coimbatore Apex Hospital,Coimbatore,350,50,7,Small / Community
+105,Coimbatore City Care Hospital,Coimbatore,437,67,14,Medium
+106,Coimbatore Super Specialty Hospital,Coimbatore,299,62,10,Small / Community
+107,St. Mary's Hospital Patna,Patna,182,23,6,Small / Community
+108,Patna Super Specialty Hospital,Patna,140,13,11,Small / Community
+109,Patna Super Specialty Hospital #2,Patna,89,14,5,Small / Community
+110,Patna Apex Hospital,Patna,277,39,7,Small / Community
+111,Patna Multispecialty Hospital,Patna,495,65,11,Medium
+112,Surat Super Specialty Hospital,Surat,91,23,4,Small / Community
+113,Surat Apex Hospital,Surat,398,57,8,Small / Community
+114,Surat Apex Hospital #2,Surat,303,35,10,Small / Community
+115,All India Institute Surat,Surat,532,117,19,Large
+116,Surat Institute of Medical Sciences,Surat,432,53,11,Medium
+117,Visakhapatnam City Care Hospital,Visakhapatnam,466,78,20,Large
+118,Visakhapatnam Institute of Medical Sciences,Visakhapatnam,509,66,13,Medium
+119,Visakhapatnam General Hospital,Visakhapatnam,376,77,10,Medium
+120,Visakhapatnam Wellness & Research Hospital,Visakhapatnam,259,44,10,Small / Community
+121,Visakhapatnam Apex Hospital,Visakhapatnam,310,55,12,Medium
+122,St. Mary's Hospital Ranchi,Ranchi,137,39,11,Small / Community
+123,Ranchi Institute of Medical Sciences,Ranchi,285,34,9,Small / Community
+124,Ranchi Apex Hospital,Ranchi,278,71,12,Medium
+125,Raipur District Hospital,Raipur,140,31,10,Small / Community
+126,All India Institute Raipur,Raipur,220,55,7,Small / Community
+127,Raipur District Hospital #2,Raipur,158,35,6,Small / Community
+128,Raipur Wellness & Research Hospital,Raipur,289,78,6,Small / Community
+129,All India Institute Guwahati,Guwahati,89,15,4,Small / Community
+130,Guwahati Institute of Medical Sciences,Guwahati,247,41,11,Small / Community
+131,All India Institute Guwahati #2,Guwahati,262,41,10,Small / Community
+132,Dehradun Super Specialty Hospital,Dehradun,328,44,12,Medium
+133,St. Mary's Hospital Dehradun,Dehradun,111,10,10,Small / Community
+134,Thiruvananthapuram General Hospital,Thiruvananthapuram,270,47,10,Small / Community
+135,Thiruvananthapuram District Hospital,Thiruvananthapuram,118,20,8,Small / Community
+136,All India Institute Thiruvananthapuram,Thiruvananthapuram,325,55,6,Small / Community
+137,Amritsar District Hospital,Amritsar,326,40,10,Small / Community
+138,Amritsar Super Specialty Hospital,Amritsar,287,42,8,Small / Community
+139,Amritsar Wellness & Research Hospital,Amritsar,208,41,12,Small / Community

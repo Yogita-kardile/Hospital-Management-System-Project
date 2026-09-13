@@ -1,0 +1,21 @@
+specialization,num_hospitals_offering,pct_of_hospitals
+Pediatrics,90,64.7
+Gastroenterology,90,64.7
+Endocrinology,90,64.7
+Orthopedics,89,64.0
+Oncology,89,64.0
+Pulmonology,88,63.3
+Ophthalmology,88,63.3
+General Surgery,88,63.3
+Urology,87,62.6
+Emergency Medicine,87,62.6
+Nephrology,86,61.9
+Cardiology,86,61.9
+Anesthesiology,86,61.9
+Gynecology & Obstetrics,85,61.2
+Psychiatry,84,60.4
+ENT,83,59.7
+Radiology,80,57.6
+Dermatology,80,57.6
+General Medicine,78,56.1
+Neurology,77,55.4

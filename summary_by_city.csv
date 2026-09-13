@@ -1,0 +1,26 @@
+city,state,num_hospitals,total_beds,total_doctors,avg_beds_per_hospital,avg_rating
+Hyderabad,Telangana,9,7492,1208,832.4,3.8
+Chennai,Tamil Nadu,9,6650,985,738.9,4.1
+Kolkata,West Bengal,9,6290,1037,698.9,3.88
+Pune,Maharashtra,9,6082,938,675.8,4.0
+Ahmedabad,Gujarat,9,4749,790,527.7,4.0
+Bengaluru,Karnataka,7,4506,703,643.7,3.96
+Delhi,Delhi,6,4099,609,683.2,3.57
+Mumbai,Maharashtra,6,3586,579,597.7,3.75
+Lucknow,Uttar Pradesh,6,2021,318,336.8,4.32
+Chandigarh,Chandigarh,6,1949,342,324.8,4.12
+Indore,Madhya Pradesh,6,1672,267,278.7,4.02
+Bhopal,Madhya Pradesh,6,1429,225,238.2,4.07
+Visakhapatnam,Andhra Pradesh,5,1920,320,384.0,3.48
+Surat,Gujarat,5,1756,285,351.2,3.88
+Jaipur,Rajasthan,5,1586,298,317.2,3.84
+Nagpur,Maharashtra,5,1345,250,269.0,3.78
+Patna,Bihar,5,1183,154,236.6,4.52
+Coimbatore,Tamil Nadu,4,1586,265,396.5,3.42
+Kochi,Kerala,4,1584,286,396.0,4.0
+Raipur,Chhattisgarh,4,807,199,201.8,4.17
+Amritsar,Punjab,3,821,123,273.7,3.6
+Thiruvananthapuram,Kerala,3,713,122,237.7,3.1
+Ranchi,Jharkhand,3,700,144,233.3,3.77
+Guwahati,Assam,3,598,97,199.3,3.4
+Dehradun,Uttarakhand,2,439,54,219.5,4.4
